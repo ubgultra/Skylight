@@ -9,6 +9,6 @@
 <a href="https://glitch.com/edit/#!/import/github/techarb2/Skylight"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg" width="150" height="35"></a>
 <a href="https://heroku.com/deploy/?template=https://github.com/techarb2/Skylight"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg" width="150" height="35"></a>
 <p>
-### Frontend by <a href="https://github.com/techarb2">techarb2</a>
+# Frontend by <a href="https://github.com/techarb2">techarb2</a>
 		      
 ## Backend by <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and Abnumality
