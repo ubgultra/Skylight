@@ -1,4 +1,4 @@
-<h2>This is a frontend made for the Ultraviolet thing. (BETA)</h2>
+<h2>This is a frontend made for the Ultraviolet thingy. (BETA)</h2>
 
 ### <a href='https://github.com/titaniumnetwork-dev/ultraviolet-node'>View Source</a>
 ### <a href='https://englishtext.gq'>Offical Site</a>
